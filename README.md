@@ -27,11 +27,11 @@ quality. Physiochemical tests were used to gather the input data features.
 
 **Dataset Source:** [Wine Quality Dataset](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
 ## Visualization
-[Wine Quality Analysis Dashboard](https://public.tableau.com/shared/KDPP95BQG?:display_count=n&:origin=viz_share_link)
-1. [Total Number of Wines in Each Quality Level](https://public.tableau.com/shared/MSPM8GRKJ?:display_count=n&:origin=viz_share_link)
-2. [Total Number of Good Quality Wines](https://public.tableau.com/shared/4XNP4CDFK?:display_count=n&:origin=viz_share_link)
-3. [Total Number of Bad Quality Wines](https://public.tableau.com/shared/FY3XDST8Z?:display_count=n&:origin=viz_share_link)
-4. [Average Alcohol Level for Each Quality Level](https://public.tableau.com/shared/QQ26J73X9?:display_count=n&:origin=viz_share_link)
+[Wine Quality Analysis Dashboard](https://public.tableau.com/views/WineQualityAnalysis_17168320808650/WineQualityAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+1. [Total Number of Wines in Each Quality Level](https://public.tableau.com/views/WineQualityAnalysis_17168320808650/TotalWine?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+2. [Total Number of Good Quality Wines](https://public.tableau.com/views/WineQualityAnalysis_17168320808650/Goodwines?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+3. [Total Number of Bad Quality Wines](https://public.tableau.com/views/WineQualityAnalysis_17168320808650/Badwines?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+4. [Average Alcohol Level for Each Quality Level](https://public.tableau.com/views/WineQualityAnalysis_17168320808650/Avg_Alchohol?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## Conclusion
 It is evident that greater alcohol, more sulphate, lower volatile acidity, and higher
 residual sugar levels are associated with higher quality wines. Customers who wish to purchase
